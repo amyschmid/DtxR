@@ -13,7 +13,7 @@ Statistical model to infer TF-TF interregulatory network topology (paper Figure 
   - pandas
   - statsmodels
 - Data: anovadata.csv
-- Notebook: ANOVAanalysis-git.ipynb
+- ![ANOVA Jupyter notebook] ANOVAanalysis-git.ipynb
 
 ## Instructions 
 Evaluate code cells in the notebook to recapitulate Supplementary Table S4. 
@@ -26,10 +26,10 @@ Logic model to predict TF-TF network dynamical properties.
 - Packages
     - numpy 
     - matplotlib
-- Notebook: dtxr-booleanmodeling.ipynb 
+- ![Boolean modeling Jupyter notebook] dtxr-booleanmodeling.ipynb 
 
 ## Instructions
-Evaluate code cells in the notebook to recapitulate Figure 5 and Supplementary Figure S1.
+Evaluate code cells in the notebook to recapitulate ![Figure 5] and ![Supplementary Figure S1].
 
 ## Acknowledgements
 - Thanks to Paul Magwene for Boolean modeling tutorials and helpful discussions.
