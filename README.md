@@ -16,7 +16,7 @@ Statistical model to infer TF-TF interregulatory network topology (paper Figure 
 - Notebook: ANOVAanalysis.ipynb
 
 ## Instructions 
-Evaluate code cells to recapitulate Supplementary Table S4. 
+Evaluate code cells in the notebook to recapitulate Supplementary Table S4. 
 
 # Boolean modeling
 Logic model to predict TF-TF network dynamical properties (paper Figure 5). 
@@ -28,10 +28,11 @@ Logic model to predict TF-TF network dynamical properties (paper Figure 5).
 - Notebook: dtxr-booleanmodeling.ipynb 
 
 ## Instructions
-Evaluate code cells to recapitulate Figure 5 and Supplementary Figure S1.
+Evaluate code cells in the notebook to recapitulate Figure 5 and Supplementary Figure S1.
 
 ## Acknowledgements
-Paul Magwene for Boolean modeling tutorial.
+- Thanks to Paul Magwene for Boolean modeling tutorials and helpful discussions.
+- Thanks to National Science Foundation grants MCB-1417750 and MCB-1651117.
 
 
 
