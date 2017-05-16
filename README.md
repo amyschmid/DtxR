@@ -29,7 +29,7 @@ Logic model to predict TF-TF network dynamical properties.
 - ![Boolean modeling Jupyter notebook] dtxr-booleanmodeling.ipynb 
 
 ## Instructions
-Evaluate code cells in the notebook to recapitulate ![Figure 5] and ![Supplementary Figure S1](https://github.com/amyschmid/DtxR/raw/master/boolpic32sim_AND_supplement.pdf).
+Evaluate code cells in the notebook to recapitulate [Figure 5](https://github.com/amyschmid/DtxR/raw/master/Fig5_boolean_output.pdf) and [Supplementary Figure S1](https://github.com/amyschmid/DtxR/raw/master/boolpic32sim_AND_supplement.pdf).
 
 ## Acknowledgements
 - Thanks to Paul Magwene for Boolean modeling tutorials and helpful discussions.
