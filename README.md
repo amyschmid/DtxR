@@ -4,6 +4,8 @@ Code repository describing ANOVA and Boolean modeling of DtxR gene regulatory ne
 
 
 # ANOVA modeling
+Statistical model to infer TF-TF interregulatory network topology (paper Figure 4). Model is based on the statsmodels package (Seabold, J.S. and Perktold, J. (2010), Proceedings of the 9th Python in Science Conference, Austin, TX, USA, pp. 57-61.)
+
 ## Dependencies
 - Python
 - Packages
@@ -12,17 +14,24 @@ Code repository describing ANOVA and Boolean modeling of DtxR gene regulatory ne
   - statsmodels
 - Data: anovadata.csv
 - Notebook: ANOVAanalysis.ipynb
-- Instructions: evaluate code cells to recapitulate Supplementary Table S4. 
+
+## Instructions 
+Evaluate code cells to recapitulate Supplementary Table S4. 
 
 # Boolean modeling
+Logic model to predict TF-TF network dynamical properties (paper Figure 5). 
 ## Dependencies
 - Python
 - Packages
     - numpy 
     - matplotlib
 - Notebook: dtxr-booleanmodeling.ipynb 
-- Instructions: evaluate code cells to recapitulate Figure 5 and Supplementary Figure S1.
-- Acknowledgement: Paul Magwene for Boolean modeling tutorial.
+
+## Instructions
+Evaluate code cells to recapitulate Figure 5 and Supplementary Figure S1.
+
+## Acknowledgements
+Paul Magwene for Boolean modeling tutorial.
 
 
 
