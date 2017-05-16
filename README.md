@@ -13,7 +13,7 @@ Statistical model to infer TF-TF interregulatory network topology (paper Figure 
   - pandas
   - statsmodels
 - Data: anovadata.csv
-- [ANOVA Jupyter notebook](https://github.com/amyschmid/DtxR/blob/master/ANOVAanalysis-git.ipynb)
+- [ANOVA Jupyter notebook](https://github.com/amyschmid/DtxR/raw/master/ANOVAanalysis-git.ipynb)
 
 ## Instructions 
 Evaluate code cells in the notebook to recapitulate Supplementary Table S4. 
