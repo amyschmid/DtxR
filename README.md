@@ -21,18 +21,6 @@ Evaluate code cells in the notebook to recapitulate Supplementary Table S4.
 # Boolean modeling
 Logic model to predict TF-TF network dynamical properties. 
 
-## The Transcriptional Network Model of Martinez-Pastor et al.
-### Network in constant iron environments
-
-![DtxR network](https://github.com/amyschmid/DtxR/raw/master/DtxR_network_diagram_noFefeedback.pdf)
-
-### Network in fluctuating iron environments
-![DtxR network with feedback](https://github.com/amyschmid/DtxR/raw/master/DtxR_network_diagram_noFefeedback.pdf)
-
-### Initial Boolean Functions to define DtxR iron network
-
-![Logic function table](https://github.com/amyschmid/DtxR/raw/master/logicfunctions_table1.pdf)
-
 ## Dependencies
 - Python
 - Packages
